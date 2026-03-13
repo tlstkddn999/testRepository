@@ -24,7 +24,7 @@ int main() {
         } else if (guess > answer) {
             printf("더 작은 숫자입니다!\n");
         } else {
-            printf("\n정답! sdssdd %d번 만에 맞췄습니다!\n", tries);
+            printf("\n정답! %d번 만에 맞췄습니다!\n", tries);
             return 0;
         }
     }
