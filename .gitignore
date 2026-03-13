@@ -1,0 +1,16 @@
+# 컴파일 결과물
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.o
+
+# Visual Studio
+.vs/
+*.user
+
+# 빌드 폴더
+Debug/
+Release/
+x64/
+x86/
